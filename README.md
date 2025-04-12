@@ -81,4 +81,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mahi07Shah/Fake-News-Prediction/blob/main/LICENSE.txt) file for details.
